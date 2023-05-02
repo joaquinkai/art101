@@ -26,6 +26,7 @@ h1 {
   /*border: solid 1px white; */
   background-color: #D17A22;
   text-align: center;
+  border-radius: 15px;
 }
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
@@ -35,4 +36,5 @@ h1 {
   /*border: solid 1px #888; */
   background-color: #B4C292;
   width: 95%;
+  border-radius: 15px;
 }
